@@ -1,7 +1,7 @@
 # Augmented-Reality-Platypus-Project
 
 Project title & description\
-Wonga Wetlands Augmented Reality Platypus – AI opportunity\
+Wonga Wetlands Augmented Reality Platypus – AI opportunity
 
 Team members & roles\
 Jacob - \
@@ -10,6 +10,6 @@ Riley - \
 Kieran - \
 Logan - 
 
-Link to the Project Charter & Initial Project Management Plan\
+Link to the Project Charter & Initial Project Management Plan
 
 Setup instructions
