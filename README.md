@@ -8,8 +8,8 @@ Jacob - \
 Ryan - \
 Riley - \
 Kieran - \
-Logan - \
+Logan - 
 
 Link to the Project Charter & Initial Project Management Plan\
 
-Setup instructions\
+Setup instructions
